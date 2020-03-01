@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563966132572",
+    "firebase_url": "https://simplecook-8cda8.firebaseio.com",
+    "project_id": "simplecook-8cda8",
+    "storage_bucket": "simplecook-8cda8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563966132572:android:0667b94f09dbd49b5d4199",
+        "android_client_info": {
+          "package_name": "com.demo.simplecook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563966132572-a9bndejtt3vocuhr0f7nmp4k1h66n7u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.simplecook",
+            "certificate_hash": "94663ae0c143f630594bc212f0b6e8d620ac3b4b"
+          }
+        },
+        {
+          "client_id": "563966132572-pvfqsnf1bhnrscat253d814use791vi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkD9bt4ekiW-9jhh2kZ4sk8f0QxK0_WoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563966132572-pvfqsnf1bhnrscat253d814use791vi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

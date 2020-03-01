@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="match_parent" android:layout_width="match_parent">
+
+    <item android:drawable="@color/white"/>
+
+    <!-- Set the Background Image-->
+    <item android:gravity="center"
+        android:drawable="@drawable/splash"
+        android:height="400dp"
+        android:viewportWidth="400.0"
+        android:viewportHeight="400.0"
+        android:width="400dp"
+        >
+    </item>
+</layer-list>
